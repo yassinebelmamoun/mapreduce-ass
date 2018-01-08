@@ -1,5 +1,6 @@
 # The Trees of Paris
 
+
 The objective of this problem is to compute some information on the trees of Paris using the file arbres.csv with MapReduce programs.
 
 Here is a sample of the input:
