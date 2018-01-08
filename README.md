@@ -1,2 +1,3 @@
-# mapreduce-ass
-Assignment for PLP project
+# Multiple projects dealing with Java & MapReduce 
+
+Assignments for PLP project.
