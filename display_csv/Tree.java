@@ -1,8 +1,6 @@
 package cs.bigdatacourse.lab2;
 
-
 import java.util.HashMap;
-
 
 public class Tree{
 	public static HashMap<String, String> get_data(String line) {
