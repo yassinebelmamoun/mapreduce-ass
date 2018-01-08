@@ -7,7 +7,6 @@ public class DisplayCompact{
 	public static void main(String[] args) throws IOException {		
 		
 		FileReader file = null;
-		
 		BufferedReader buffer = null;
 		
 		PrintWriter std = new PrintWriter("resultats_meteo.txt");
