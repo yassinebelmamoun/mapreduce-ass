@@ -1,8 +1,7 @@
 # Multiple projects dealing with Java & MapReduce 
 
 
-Assignments for PLP projects.
-Ecole CentraleSupelec - Previously Ecole Centrale Paris - 2017
+Assignments for PLP projects. _(Ecole CentraleSupelec - Previously Ecole Centrale Paris - 2017)_
 
 Projects:
 
